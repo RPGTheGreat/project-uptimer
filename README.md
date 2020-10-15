@@ -13,6 +13,7 @@ host.url("You're glitch url", your interval) //default interval is 1m
 # Documantion
 
 |   Method  |   Is required?   |
+
 | ------------- |:-------------:|:--------------:|
 | url | yes |
 | interval | no |
