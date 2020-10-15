@@ -15,7 +15,7 @@ host.url("You're glitch url", your interval) //default interval is 1m
 
 | Methods       | Type           | Description |
 | ------------- |:-------------:|:--------------:|
-| url("you're glitch url", your interval)     | String | From url only url is required but interval is not required |
+| url("you're glitch url", your interval)     | String & Object | From url only url is required but interval is not required |
 
 # Support
 
