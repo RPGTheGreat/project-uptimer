@@ -1,7 +1,7 @@
 {
   "name": "project-uptimer",
-  "version": "1.0.0",
-  "description": "A very high quality package give you quality like Rythm, Groovy",
+  "version": "1.2.0",
+  "description": "A package help you to make uptimer bot and host you're glitch projects alive",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
