@@ -20,4 +20,5 @@ host.url("You're glitch url", your interval) //default interval is 1m
 # Support
 
 **If you have bugs and issues report here [Github](https://github.com/RPGTheGreat/project-uptimer)**
+
 **If you need help join our server [Discord](https://discord.gg/yqAGXbz)**
